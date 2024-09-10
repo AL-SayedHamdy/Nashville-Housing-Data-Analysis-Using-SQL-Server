@@ -1,7 +1,7 @@
 # Nashville Housing Data Cleaning
 
 ## Overview
-This repository is dedicated to the data cleaning process of the Nashville Housing dataset using SQL Server. The goal is to enhance data quality and structure, ensuring reliable analysis and insights.
+Demonstrating expertise in SQL Server, this repository showcases a meticulous data cleaning process for the Nashville Housing dataset. Techniques employed include data validation, handling missing values, outlier detection, and data normalization.
 
 ## Data Source
 The Nashville Housing dataset is sourced from Folder named "Data".
